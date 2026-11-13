@@ -111,9 +111,9 @@ Every screen ships with a matching dark theme, chosen per user and remembered be
 
 ## Live Demo
 
-A public demo is not available yet. A link will be added here once a demo environment with sample data is ready.
+**Pilot environment:** [https://staging.fisst.app](https://staging.fisst.app)
 
-<!-- Demo: https://… (add when available) -->
+The application runs as a private pilot. Signing in requires an account, which is created by invitation, so visitors will see the sign-in page rather than sample data. The screenshots above show the full product with fictional data.
 
 ## Project Status
 
