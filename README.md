@@ -28,7 +28,17 @@ all in **English or Arabic**, with full left-to-right and right-to-left layouts,
 | **Calendar** — tender deadlines by month with status filters<br>![Calendar](screenshots/07-calendar.png) | **Team tasks** — assignees, priorities, due dates and overdue flags<br>![Tasks](screenshots/08-tasks.png) |
 | **Financial overview** — accepted value, estimated profit, margin and win rate<br>![Financial overview](screenshots/09-financial-overview.png) | **Monthly profit & loss** — revenue, costs, fixed expenses and month closing<br>![Monthly P&L](screenshots/10-monthly-pnl.png) |
 | **Products** — bilingual catalog with categories, codes and prices<br>![Products](screenshots/05-products.png) | **Clients** — client directory with contact details<br>![Clients](screenshots/06-clients.png) |
-| **Dark theme**<br>![Dark theme](screenshots/11-dark-theme.png) | **Arabic / RTL** — the full interface mirrored for right-to-left use<br>![Arabic RTL dashboard](screenshots/12-arabic-rtl.png) |
+| **Arabic / RTL** — the full interface mirrored for right-to-left use<br>![Arabic RTL dashboard](screenshots/11-arabic-rtl.png) | |
+
+### Dark mode
+
+Every screen ships with a matching dark theme, chosen per user and remembered between visits.
+
+| | |
+|---|---|
+| **Dashboard**<br>![Dark dashboard](screenshots/12-dark-dashboard.png) | **Tender history**<br>![Dark tender history](screenshots/13-dark-tenders.png) |
+| **Workflow board**<br>![Dark workflow board](screenshots/14-dark-workflow-board.png) | **Deadline calendar**<br>![Dark calendar](screenshots/15-dark-calendar.png) |
+| **Monthly profit & loss**<br>![Dark monthly P&L](screenshots/16-dark-monthly-pnl.png) | |
 
 ## Key Features
 
@@ -40,7 +50,7 @@ all in **English or Arabic**, with full left-to-right and right-to-left layouts,
 - Submission deadlines with urgency badges, plus a month-view **deadline calendar**
 - Automatic draft saving and saved versions of each tender
 - Quick-add of new products and clients without leaving the tender
-- Permanent deletion of tenders (with confirmation) and protection of accepted tenders from accidental edits
+- Permanent deletion of tenders (with confirmation), protection of accepted and sent tenders from accidental changes, and a warning before sending a tender that would sell below cost
 
 **Workflow & teamwork**
 - Kanban workflow board with status changes
